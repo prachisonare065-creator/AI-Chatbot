@@ -63,7 +63,7 @@ Make sure Ollama is running and the `llama3.2` model is available.
 ### 6. Run the chatbot
 
 ```bash
-python main.py
+python chatbot.py
 ```
 
 ## 💬 Example
