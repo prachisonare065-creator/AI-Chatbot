@@ -65,6 +65,9 @@ Make sure Ollama is running and the `llama3.2` model is available.
 ```bash
 python chatbot.py
 ```
+## 📸 Chatbot Demo
+
+![AI Chatbot Demo](chatbot-demo.png)
 
 ## 💬 Example
 
